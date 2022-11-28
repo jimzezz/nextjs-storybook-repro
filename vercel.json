@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/**/*": {
+      "memory": 1024
+    }
+  }
+}
